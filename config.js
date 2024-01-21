@@ -55,10 +55,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '𝐀𝐃𝐈𝐓𝐘𝐀-𝐁𝐎𝐓'
+global.botname = '𝐌𝐫.𝐱-𝐁𝐎𝐓'
 global.premium = 'true'
-global.packname = 'ADITYA-MD' 
-global.author = '@𝐌𝐑.𝐗-𝐀𝐃𝐈𝐓𝐘𝐀' 
+global.packname = '𝑴𝒂𝒏𝒊𝒌𝒂-𝑴𝑫' 
+global.author = '@𝐌𝐀𝐍𝐈𝐊𝐀-𝐒𝐀𝐑𝐊𝐀𝐑' 
 global.menuvid = 'https://telegra.ph/file/325630f66abc968eda8e2.mp4'
 global.igfg = '▢✓ Follow My channel\nhttps://whatsapp.com/channel/0029VaE8GbCDzgTILE7OtC3e\n' 
 global.dygp = 'https://chat.whatsapp.com/EK5UvCe3MqSKBM1DJp8UMA'
